@@ -27,9 +27,7 @@ Opens at: http://localhost:3000
 ## Features
 - Dark sidebar layout (Overview / Add Candidate / Rankings / Skill Analysis / Reports)
 - CGPA scored out of 10.0
-- Pie chart: score distribution (Overview)
 - Bar chart: top skills + skill gaps (Analysis)
-- Pie chart: rating distribution (Analysis)
 - Recent activity feed
 - Full candidate table with rank, skill gaps highlighted
 
